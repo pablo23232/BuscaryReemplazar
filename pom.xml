@@ -9,7 +9,7 @@
 			<artifactId>javafx-controls</artifactId>
 			<version>11.0.1</version>
 		</dependency>
-     <exec.mainClass>dad.javafx.calculadoraAPP.Main</exec.mainClass>
+     <exec.mainClass>dad.javafxBuscar.Main</exec.mainClass>
 	</dependencies>
   
 </project>
