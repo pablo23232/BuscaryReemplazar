@@ -3,4 +3,13 @@
   <groupId>dad.javafxBuscar</groupId>
   <artifactId>dad.javafxBuscar</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+		<dependency>
+			<groupId>org.openjfx</groupId>
+			<artifactId>javafx-controls</artifactId>
+			<version>11.0.1</version>
+		</dependency>
+     <exec.mainClass>dad.javafx.calculadoraAPP.Main</exec.mainClass>
+	</dependencies>
+  
 </project>
